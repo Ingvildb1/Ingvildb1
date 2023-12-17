@@ -3,6 +3,8 @@
 - :pencil2: I'm a student at Noroff
 - 🌱 I’m currently learning how to make beautiful websites, so I'm a newbie! 
 - 💞️ I’m looking for help to learn more about JavaScript and making amazing CSS
+- :pencil2: From my studies I've learnt html, css, javascript, React and SCSS.
+- 💞️ For a complete list of all the technologies I've worked with please visit my portfolio page
 - 📫 How to reach me : send me an email :love_letter:
 
 <!---
